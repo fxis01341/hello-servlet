@@ -1,6 +1,6 @@
 ---
 applications:
-- name: hello-servlet
+- name: hello-servlet-fxis01341
   memory: 256m
   buildpack: https://github.com/cloudfoundry/java-buildpack#v3.19
   instances: 1
